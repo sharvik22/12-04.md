@@ -10,6 +10,7 @@
 - количество пользователей, закреплённых в этом магазине.
 
 ### Решение 1
+![alt text](https://github.com/sharvik22/11-02.md/blob/main/images/1.png)
 
 ---
 
